@@ -2,6 +2,13 @@
 
 这是一个初始化项目，方便做项目拿来及用，不用在过多配置，已经配置好路由，mock模式数据接口，封装好的axios。（觉得实用，帮忙点点右上角小星星。）
 
+下载
+安装依赖
+npm install 
+
+运行项目 
+npm run dev
+
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
